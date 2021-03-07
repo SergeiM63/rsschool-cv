@@ -15,7 +15,7 @@ html {
   min-height: 80px;
   justify-content: space-between;
   background-color: #faea68;
-  background-image: url("./logo.svg");
+  background-image: url(logo.svg);
   background-position: 5% center;
   background-repeat: no-repeat;
   background-size: 12%;
@@ -79,7 +79,7 @@ footer li { margin-bottom: 10px; }
   padding-right: 30px;
   color: white;
   text-decoration: underline;
-  background-image: url("./github.svg");
+  background-image: url(github.svg);
   background-size: 30%;
   background-repeat: no-repeat;
   background-position: right center;
@@ -89,7 +89,7 @@ footer li { margin-bottom: 10px; }
   padding-right: 30px;
   color: white;
   text-decoration: underline;
-  background-image: url("./youtube.png");
+  background-image: url(youtube.png);
   background-size: 30%;
   background-repeat: no-repeat;
   background-position: right center;
